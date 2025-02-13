@@ -1,6 +1,6 @@
 import csv
 import re
-from pprint import pprint
+
 
 def correct_names(lastname, firstname, surname, organization, position, phone, email):
     namelist = []
